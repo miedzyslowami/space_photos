@@ -1,0 +1,25 @@
+{
+  "name": "space_photos",
+  "version": "1.0.0",
+  "description": "GET SOME NASA PHOTOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miedzyslowami/space_photos.git"
+  },
+  "keywords": [
+    "ajax",
+    "js",
+    "html",
+    "css"
+  ],
+  "author": "Malgorzata Grajewska",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miedzyslowami/space_photos/issues"
+  },
+  "homepage": "https://github.com/miedzyslowami/space_photos#readme"
+}
